@@ -6,11 +6,11 @@ The purpose of this project was to add these features to a Python script for aud
 
 ## Election-Audit Results
 
-*369,711 total votes were cast in the election.
-*Denver had 306,055 votes(82.8%). Jefferson had 38,855 votes(10.5%). Arapahoe had 24,801 votes(6.7%).
-*Denver was the county with the most votes.
-*Diana DeGette received 272,892 votes(73.8%). Charles Casper Stockham received 85,213 votes(23.0%). Raymon Anthony Doane received 11,606 votes(3.1%).
-*Diana DeGette won the election with 272,892 votes, representing 73.8% of the total vote count.
+* 369,711 total votes were cast in the election.
+* Denver had 306,055 votes(82.8%). Jefferson had 38,855 votes(10.5%). Arapahoe had 24,801 votes(6.7%).
+* Denver was the county with the most votes.
+* Diana DeGette received 272,892 votes(73.8%). Charles Casper Stockham received 85,213 votes(23.0%). Raymon Anthony Doane received 11,606 votes(3.1%).
+* Diana DeGette won the election with 272,892 votes, representing 73.8% of the total vote count.
 
 ![Screenshot of results](/resources/results.png)
 
