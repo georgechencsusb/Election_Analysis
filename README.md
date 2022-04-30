@@ -11,6 +11,7 @@ The purpose of this project was to add these features to a Python script for aud
 *Denver was the county with the most votes.
 *Diana DeGette received 272,892 votes(73.8%). Charles Casper Stockham received 85,213 votes(23.0%). Raymon Anthony Doane received 11,606 votes(3.1%).
 *Diana DeGette won the election with 272,892 votes, representing 73.8% of the total vote count.
+
 ![Screenshot of results](/resources/results.png)
 
 ## Election-Audit Summary
